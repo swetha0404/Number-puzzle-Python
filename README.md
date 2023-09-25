@@ -1,4 +1,4 @@
-# Number-puzzle-Python
+# Number-puzzle-using-Python
 Simple puzzle with numbers - created with python freegames and turtle library.
 
 Dependency required - 
